@@ -1,12 +1,2 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Link Examples</title>
-</head>
-<body>
-    <p>Click the links below:</p>
-    <a href="https://www.halamadrid.com" target="_blank">halamadrid</a><br>
-    <a href="https://api.whatsapp.com/send?phone=YOUR_PHONE_NUMBER" target="_blank">whatsapp</a>
-</body>
-</html>
+
 
