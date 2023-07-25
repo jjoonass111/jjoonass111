@@ -1,2 +1,10 @@
-
-
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Website Redirect</title>
+</head>
+<body>
+    <p>Click the link below to go to another website:</p>
+    <a href=realmadrid.com/en target=whatsapp.com>Go to Example Website</a>
+</body>
+</html>
